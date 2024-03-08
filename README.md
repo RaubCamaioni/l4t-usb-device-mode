@@ -1,3 +1,4 @@
+```
 $ sudo apt-cache show nvidia-jetpack
 Package: nvidia-jetpack
 Version: 6.0-b52
@@ -15,3 +16,4 @@ SHA1: 950626b2b51381650e8ecb7e3b21f5e2e89cddb6
 MD5sum: 1e58b6faa4b7a9695a1f5b0cb6035d85
 Description: NVIDIA Jetpack Meta Package
 Description-md5: ad1462289bdbc54909ae109d1d32c0a8
+```
